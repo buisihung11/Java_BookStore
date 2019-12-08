@@ -1,7 +1,7 @@
 # Java_BookStore
 
 An Java web app build with MVC2 model develop a simple Ecommerce website to sell  books. 
-With use [Stripe](https://stripe.com/) for online payments.
+Also using [Stripe](https://stripe.com/) for online payments.
 
 ## Getting Started
 
