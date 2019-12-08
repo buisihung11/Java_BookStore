@@ -22,7 +22,7 @@ Stripe.jar from Stripe for checkout with card online
 
 ## Checkout flow
 
-[Contribution guidelines for this project]()
+![Contribution guidelines for this project](document/checkoutonline_SEQ.jpg)
 
 ## Deployment
 
